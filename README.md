@@ -36,27 +36,68 @@ Below are the placeholders for the various charts and plots generated in the ana
 ---
 
 #### Reservation Status Count
-![Reservation Status Count](path_to_chart1.png)
+![image](https://github.com/user-attachments/assets/be7ecd00-e9e0-4f56-9671-18f8651be5f6)
+## Cancellation Rates in Both Hotels
+
+- **Not Canceled:** 62.86%
+- **Canceled:** 37.14%
+
+The data shows that the majority of reservations were not canceled, although a significant portion of bookings were. The bar chart displays the comparison between canceled and non-canceled bookings, highlighting that most reservations remained intact. However, a notable 37% of customers opted to cancel their reservations, which has a meaningful effect on the hotels' financial performance.
+
+
 
 ---
 
 #### Cancellation Distribution by Hotel Type
-![Cancellation by Hotel Type](path_to_chart2.png)
+![image](https://github.com/user-attachments/assets/f85351ef-995e-4ded-8ab9-aca4836142a5)
+## Bookings and Cancellations in City vs Resort Hotels
+
+--------------------------------------------------
+
+- **City Hotels:** Most bookings were made at city hotels.
+- **Resort Hotels:** Cancellations are lower in resort hotels compared to city hotels.
+
+The analysis indicates that city hotels receive a higher number of bookings than resort hotels. This difference could be due to resort hotels generally being more expensive than their city counterparts, possibly leading to fewer bookings and cancellations.
+
+
 
 ---
 
 #### Average Daily Rate (ADR) in City and Resort Hotels Over Time
-![ADR Trend](path_to_chart3.png)
+![image](https://github.com/user-attachments/assets/8392ab35-2633-4550-abd6-7ddcbfbe4365)
+## Price Comparison: City vs Resort Hotels
+
+--------------------------------------------------
+
+- **Resort Hotels:** The rates are significantly higher than those of city hotels.
+- **City Hotels:** Prices remain relatively stable over time.
+
+The line graph above demonstrates that while the average daily rate for city hotels is generally lower, there are certain days when the prices drop even further. It’s worth noting that resort hotel prices tend to increase during weekends and holidays.
+
+
 
 ---
 
 #### Reservation Status Per Month
-![Reservation Status Per Month](path_to_chart4.png)
+![image](https://github.com/user-attachments/assets/ae2b9e51-527c-478d-bb12-06f254980421)
+## Reservation Trends by Month
+
+--------------------------------------------------
+
+- **Peak Booking Months:** May, June, July, and August saw the most reservations.
+- **Notable Insights:** A grouped bar graph highlights the fluctuation in reservation statuses across months. August had the highest volume of both confirmed and canceled bookings, while January recorded the fewest confirmed reservations but led in cancellations.
+
 
 ---
 
 #### ADR per Month for Canceled Reservations
-![ADR per Month for Canceled Reservations](path_to_chart5.png)
+![image](https://github.com/user-attachments/assets/012f31ac-60ba-44a9-acea-784cacf169b3)
+## Price Influence on Cancellations
+
+--------------------------------------------------
+
+- **Key Observation:** The bar graph demonstrates that cancellations tend to rise when accommodation prices are at their peak and decline when prices are lower. This suggests that pricing plays a significant role in driving reservation cancellations.
+
 
 ---
 
