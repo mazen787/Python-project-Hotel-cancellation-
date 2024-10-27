@@ -31,7 +31,7 @@ This project uses several types of visualizations, such as:
 
 ### Visualizations
 
-Below are the placeholders for the various charts and plots generated in the analysis. Please replace the placeholders with your actual charts.
+Below are the placeholders for the various charts and plots generated in the analysis.
 
 ---
 
