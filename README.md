@@ -102,7 +102,14 @@ The line graph above demonstrates that while the average daily rate for city hot
 ---
 
 #### Top 10 Countries Based on Cancellations
-![Top 10 Countries for Cancellations](path_to_chart6.png)
+![image](https://github.com/user-attachments/assets/863890d5-ee65-438c-953c-b64b8d3e17c5)
+## Country with the Highest Number of Cancellations
+
+--------------------------------------------------
+
+- **Key Observation:** When analyzing cancellations by country, Portugal emerges as the leading nation with the highest volume of canceled bookings.
+
+
 
 ---
 
@@ -112,8 +119,14 @@ The line graph above demonstrates that while the average daily rate for city hot
 ---
 
 #### ADR Distribution by Room Type and Hotel
-![ADR Distribution by Room and Hotel](path_to_chart8.png)
+![image](https://github.com/user-attachments/assets/fc7c6127-5a53-4443-b5f4-ff1ef291402a)
+## Variation in Room Types, Meal Plans, and Seasonal Pricing
+
+--------------------------------------------------
+
+- **Key Observation:** The room types and meal offerings differ between the two hotels, and seasonal changes significantly impact pricing, leading to considerable price fluctuations.
+
+
 
 ---
 
-You can upload your visualizations in place of the placeholders by replacing the `path_to_chartX.png` with the actual image file paths.
