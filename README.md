@@ -114,7 +114,13 @@ The line graph above demonstrates that while the average daily rate for city hot
 ---
 
 #### ADR Trend for Canceled and Non-Canceled Reservations
-![ADR Canceled vs Not Canceled](path_to_chart7.png)
+![image](https://github.com/user-attachments/assets/db1c6ec4-47ba-4adc-876d-64ef5e7ff1a6)
+## Seasonal ADR Trends in City and Resort Hotels
+
+--------------------------------------------------
+
+- **Key Insight:** Resort Hotels observe higher ADR (Average Daily Rate) during the months of July, August, and September, whereas City Hotels experience a modest increase in ADR during March, April, and May.
+
 
 ---
 
@@ -129,4 +135,15 @@ The line graph above demonstrates that while the average daily rate for city hot
 
 
 ---
+## Recommendations
+
+--------------------------------------------------
+
+- **Pricing Strategy:** Since cancellations tend to rise with higher prices, hotels can adjust their pricing models by offering location-based discounts and promotional rates to reduce the likelihood of cancellations.
+  
+- **Deposit Policy:** The elevated cancellation rate may also stem from policies requiring no deposits. Modifying these policies could help minimize cancellations.
+  
+- **Hotel Comparison:** Resort Hotels face fewer cancellations compared to City Hotels, indicating room for improvement in City Hotel retention strategies.
+  
+- **Marketing Campaigns:** To increase revenue during January, when cancellations are at their peak, hotels could implement targeted marketing efforts with appealing deals.
 
